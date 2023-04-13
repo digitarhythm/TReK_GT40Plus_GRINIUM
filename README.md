@@ -1,0 +1,2 @@
+# TReK_GT40Plus_GRINIUM
+KiCAD project for TReK GT40Plus GRINIUM
